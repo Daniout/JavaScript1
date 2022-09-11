@@ -4,3 +4,5 @@ function SecondFuction (a,b){
         return a+b;
     }
     console.log(SecondFuction());
+
+    //hola bros
